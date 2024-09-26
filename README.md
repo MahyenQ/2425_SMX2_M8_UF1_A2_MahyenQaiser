@@ -4,4 +4,9 @@ Evaluacion Inicial (Documentación con Markdown)
 # Evaluación inicial
 
 ## 1.¿Qué es una página web?
+#### Es como una hoja en la computadora donde podemos ver información, imágenes, videos y cosas interesantes cuando navegamos por internet. Es donde podmeos buscar y encontrar bastantes cosas.
+## 2.¿Qué es un sitio web?
+#### Un sitio web es como un lugar en internet donde podemos encontrar muchas páginas web diferentes, informaciones, imágenes, videos y muchas más cosas todas juntas en un solo lugar y que cada sitio web tiene su propia dirección.
+
+
 
