@@ -20,6 +20,9 @@ Evaluacion Inicial (Documentación con Markdown)
 |Google Calendar |📅|
 |Google Meet |💻|
 |...|...|
+## 6.¿Qué es HTML ?
+#### Es como un lenguaje de marcado que se usa para crear y diseñar páginas web.
+![HTML](https://github.com/MahyenQ/SMX2M8UF1A2-MahyenQaiser/blob/main/HTMP.jpg.png)
 
 
 
