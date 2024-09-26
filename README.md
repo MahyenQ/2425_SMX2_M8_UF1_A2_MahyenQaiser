@@ -11,7 +11,8 @@ Evaluacion Inicial (Documentación con Markdown)
 #### Una aplicación web es como un programa en internet que podemos usar sin descargarlo. Pueden hacer muchas cosas útiles, como permitirte enviar mensajes, ver videos, hacer compras en línea, jugar juegos y mucho más directamente desde nuestro navegador.
 ## 4.¿Qué es una herramienta ofimática?
 #### Un conjunto de programas que nos ayudan a realizar tareas como escribir documentos, crear presentaciones, hacer hojas de cálculo y administrar correos electrónicos. Básicamente herramientas para hacer proyectos.
-## 5.Herramientas de Google:
+## 5.[CHROME](https://www.google.com/intl/es-419/chrome/browser-tools/)Herramientas de Google:
+
 |Aplicacionea |Visto |
 |----------|:----------:|
 |Google Docs |✔️|
