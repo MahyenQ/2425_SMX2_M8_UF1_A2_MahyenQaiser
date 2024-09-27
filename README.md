@@ -1,4 +1,4 @@
-# SMX2M8UF1A2-MahyenQaiser
+# SMX2_M8_UF1_A2_MahyenQaiser
 Evaluacion Inicial (Documentación con Markdown)
 
 # Evaluación inicial
