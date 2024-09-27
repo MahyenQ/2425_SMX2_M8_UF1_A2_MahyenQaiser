@@ -13,7 +13,7 @@ Evaluacion Inicial (Documentación con Markdown)
 #### Un conjunto de programas que nos ayudan a realizar tareas como escribir documentos, crear presentaciones, hacer hojas de cálculo y administrar correos electrónicos. Básicamente herramientas para hacer proyectos.
 ## 5.[Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/)
 
-|Aplicacioness |Visto |
+|Aplicaciones |Visto |
 |----------|:----------:|
 |Google Docs |✔️|
 |Google Slides |✔️|
@@ -24,7 +24,7 @@ Evaluacion Inicial (Documentación con Markdown)
 ## 6.¿Qué es HTML ?
 #### Es como un lenguaje de marcado que se usa para crear y diseñar páginas web.
 
-<!DOCTYPE html>
+``<!DOCTYPE html>´´
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
