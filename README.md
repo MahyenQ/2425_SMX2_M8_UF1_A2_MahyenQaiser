@@ -24,7 +24,7 @@ Evaluacion Inicial (Documentación con Markdown)
 ## 6.¿Qué es HTML ?
 #### Es como un lenguaje de marcado que se usa para crear y diseñar páginas web.
 
-``# <!DOCTYPE html>´´
+``# <!DOCTYPE html>``
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
