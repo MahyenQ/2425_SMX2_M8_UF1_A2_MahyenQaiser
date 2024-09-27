@@ -25,17 +25,17 @@ Evaluacion Inicial (Documentación con Markdown)
 #### Es como un lenguaje de marcado que se usa para crear y diseñar páginas web.
 
 ``# <!DOCTYPE html>``
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Document</title>
-</head>
-<body>
+``# <html lang="en">``
+``# <head>
+	``# <meta charset="UTF-8">``
+	``# <meta http-equiv="X-UA-Compatible" content="IE=edge">``
+	``# <meta name="viewport" content="width=device-width, initial-scale=1.0">``
+	``# <title>Document</title>``
+``# </head>``
+``# <body>``
 
-</body>
-</html>
+``# </body>``
+``# </html>``
  
 ## 7.¿Qué es CSS?
 #### Digamos que es un lenguaje que se usa para dar estilo y diseño a las páginas web creadas con HTML.
