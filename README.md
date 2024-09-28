@@ -24,7 +24,11 @@ Evaluacion Inicial (Documentación con Markdown)
 ## 6.¿Qué es HTML ?
 #### Es como un lenguaje de marcado que se usa para crear y diseñar páginas web.
 ``# <!DOCTYPE html>``
-``# <html lang="en">`` 
+``# <html lang="en">``
+``# <head>``
+	``# meta charset="UTF-8">``
+	``# meta http-equiv="X-UA-Compatible" content="IE=Edge">``
+ 
 ## 7.¿Qué es CSS?
 #### Digamos que es un lenguaje que se usa para dar estilo y diseño a las páginas web creadas con HTML.
 ## 8.Flujo de trabajo (navegador, petición, servidor y respuesta):
